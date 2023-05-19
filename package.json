@@ -16,7 +16,7 @@
     "url": "https://github.com/liuahuan5566/eslint-config-test01/issues"
   },
   "homepage": "https://github.com/liuahuan5566/eslint-config-test01#readme",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^8.40.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-vue": "^9.13.0"
