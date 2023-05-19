@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-test01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuahuan5566/eslint-config-test01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuahuan5566/eslint-config-test01/issues"
+  },
+  "homepage": "https://github.com/liuahuan5566/eslint-config-test01#readme",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-vue": "^9.13.0"
+  }
+}
